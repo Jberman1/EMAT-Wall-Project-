@@ -6,4 +6,4 @@ Usage Instructions in Case of Error
   When the project is opened if the screen is white refresh and the issue should be fixed.
   The project has many video assets which need to load so be patient when opening it for the first time. (Should only take 5-10 seconds to load)
   
-Link to project on P5.js - https://editor.p5js.org/Jake_B/sketches/HTMys1rtI
+Link to project on P5.js - https://editor.p5js.org/Jake_B/sketches/HTMys1rtI (Best way to check it out)
